@@ -4,7 +4,7 @@ import { CollectionsHoneComponent } from './collections-hone/collections-hone.co
 
 const routes: Routes = [
   {
-    path: 'collection',
+    path: '',
     component: CollectionsHoneComponent
   }
 ];
